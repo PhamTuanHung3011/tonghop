@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Fire_base_connect" parent="@style/Theme.Leanback" />
+</resources>

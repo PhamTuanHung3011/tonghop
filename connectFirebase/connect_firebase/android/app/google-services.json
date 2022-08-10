@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956206955269",
+    "project_id": "fluterchat-3012f",
+    "storage_bucket": "fluterchat-3012f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956206955269:android:b87720cf88a9da8d15d56c",
+        "android_client_info": {
+          "package_name": "com.example.connect_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956206955269-kjm3c7fh6mn3u8e67n9h6ague5e5lnjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByMi8NEYnpyQcpwaBstwHcu-nRBeODvqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956206955269-kjm3c7fh6mn3u8e67n9h6ague5e5lnjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

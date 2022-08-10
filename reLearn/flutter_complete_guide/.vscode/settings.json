@@ -1,0 +1,8 @@
+{
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "cSpell.language": "\"en,vi\",vi",
+    "cSpell.enableFiletypes": [
+        "dart"
+    ]
+}
